@@ -13,3 +13,4 @@ stuff, configs, links, for ender 3 3d printer by
 
 ## Testing Files:
 - temptest.gcode - this file is the traditional temperature file, alterady sliced for ender 3, with the corresponding temperature changes during print
+[Reference Youtube Video (portuguese-br)](https://www.youtube.com/watch?v=O5JIT3esyMc)
